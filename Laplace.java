@@ -115,7 +115,6 @@ public class Laplace {
                      */
                     determinante += Math.pow(-1, i) * matriz[0][i] * laplace(aux);
                 }
-
             }
         }
         return determinante;

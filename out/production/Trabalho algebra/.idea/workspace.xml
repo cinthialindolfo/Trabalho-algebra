@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3c47068-1c05-46aa-8ecd-746926a3adb3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laplace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgMatriz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/cinth/Documents/PDF BSI Disciplinas/P3 - Algebra/Trabalho algebra&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ProgMatriz">
+  <component name="RunManager" selected="Application.Teste">
     <configuration name="ProgMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgMatriz" />
       <module name="Trabalho algebra" />
